@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "ligntnotification": {
+    "PowerOutNotification": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
